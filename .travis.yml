@@ -33,6 +33,7 @@ branches:
     only:
     - dev
     - master
+    - clang-travis
 
 notifications:
   email: true
